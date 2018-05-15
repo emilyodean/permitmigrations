@@ -1,0 +1,12 @@
+name: permit-migration-test
+title: Permit-migration-test
+username:
+account: eodean
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 337130
+bundleId: 1354761
+url: https://eodean.shinyapps.io/permit-migration-test/
+when: 1525389840.78156
+asMultiple: FALSE
+asStatic: FALSE

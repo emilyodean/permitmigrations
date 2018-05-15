@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525388801473.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5527FC69",
+    "lastKnownWriteTime" : 1526416019,
+    "last_content_update" : 1526416019060,
+    "path" : "~/Downloads/permitmigrations/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "24,50",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

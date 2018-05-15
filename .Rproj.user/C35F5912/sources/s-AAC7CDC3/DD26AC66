@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526408923710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD26AC66",
+    "lastKnownWriteTime" : 1526410448,
+    "last_content_update" : 1526410448520,
+    "path" : "~/Downloads/permitmigrations/loaddata.R",
+    "project_path" : "loaddata.R",
+    "properties" : {
+        "cursorPosition" : "3,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
